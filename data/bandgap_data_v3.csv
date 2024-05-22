@@ -1,0 +1,468 @@
+,index,chemicalFormula Clean,Band gap values Clean,Band gap units,Band gap method,Reliability
+0,0,Li1F1,13.105,eV,Reflection,1
+6,6,Li1Cl1,9.33,eV,Reflection,1
+7,7,Li1Br1,7.95,eV,Absorption,1
+9,9,Li3Sb1,1.0,eV,Thermal activation,1
+10,10,Li1I1,6.0,eV,Reflection,1
+15,15,Li3Bi1,0.7,eV,Thermal activation,1
+16,16,Be1O1,10.48,eV,Reflection,1
+22,22,Be1S1,4.17,eV,SCOPW,1
+23,23,Be1Se1,3.61,eV,SCOPW,1
+24,24,Be3Sb2,0.67,eV,Thermal activation,1
+25,25,Be1Te1,2.89,eV,SCOPW,1
+26,26,B1,0.93,eV,Absorption,1
+37,37,B1N1,8.0,eV,APW,1
+40,40,B2O3,7.0,eV,,1
+42,42,B1P1,2.0,eV,Absorption,1
+47,47,B1As1,1.46,eV,Absorption,1
+50,51,B1Sb1,2.6,eV,,1
+51,52,C,6.244999999999999,eV,Absorption,1
+59,60,C1Br4,3.7,eV,Absorption,1
+60,61,C1I4,2.26,eV,Absorption,1
+61,63,Na1F1,10.5,eV,,1
+62,64,Na2S1,2.4,eV,Estimated,1
+63,65,Na1Cl1,8.97,eV,Absorption,1
+69,71,Na2Se1,2.0,eV,Estimated,1
+70,72,Na1Br1,7.5,eV,Absorption,1
+74,76,Na3Sb1,1.1,eV,Absorption,1
+80,82,Na2Te1,2.3,eV,Thermal activation,1
+82,84,Na1I1,5.89,eV,Reflection,1
+87,89,Mg1O1,7.77,eV,Reflection,1
+90,92,Mg1F2,11.8,eV,Reflection,1
+94,97,Mg2Si1,1.435,eV,Estimated,1
+102,105,Mg3P2,1.4,eV,Estimated,1
+103,107,Mg2Ge1,1.0859999999999999,eV,Absorption,1
+119,123,Mg3As2,2.55,eV,Thermal activation,1
+121,125,Mg1Se1,5.6,eV,Absorption,1
+124,128,Mg2Sn1,0.1575,eV,Absorption,1
+133,137,Mg3Sb2,0.82,eV,,1
+135,139,Mg1Te1,4.7,eV,,1
+137,141,Mg2Pb1,0.041,eV,Thermal activation,1
+140,144,Mg3Bi2,0.1,eV,Estimated,1
+142,146,Al1B1,0.82,eV,Thermal activation,1
+145,149,Al1N1,5.74,eV,Absorption,1
+149,153,Al2O3,9.7,eV,Absorption,1
+155,159,Al1P1,2.45,eV,Absorption,1
+159,163,Al2S3,4.1,eV,Absorption,1
+160,164,Al1As1,2.5,eV,,1
+172,176,Al2Se3,3.1,eV,Absorption,1
+173,177,Al1Sb1,1.919,eV,Reflection,1
+177,181,Al2Te3,2.5,eV,Absorption,1
+180,184,Al1Bi1,0.4,eV,Estimated,1
+181,185,Si1C1,2.5300000000000002,eV,Absorption,1
+188,192,Si3N4,5.0,eV,,1
+191,195,Si1O2,11.0,eV,Reflection,1
+195,199,Si,1.12,eV,Absorption,1
+202,206,Si1P2,1.89,eV,Absorption,1
+203,207,Si1As1,1.45,eV,Absorption,1
+207,211,Si1Se2,1.72,eV,Absorption,1
+209,213,Si1Sn1,0.59,eV,,1
+210,214,Si2Te3,1.98,eV,Absorption,1
+211,215,Si1Te2,2.015,eV,Absorption,1
+214,218,P,0.9650000000000001,eV,Reflection,1
+218,222,P1As1,0.23,eV,Thermal activation,1
+219,223,S,3.82,eV,Photoconduction,1
+222,226,K1F1,10.600000000000001,eV,Reflection,1
+226,230,K2S1,2.1,eV,Estimated,1
+227,231,K1Cl1,8.5,eV,Absorption,1
+232,236,K2Se1,1.8,eV,Estimated,1
+233,237,K1Br1,7.6,eV,Absorption,1
+241,245,K3Sb1,1.3999999999999997,eV,Absorption,1
+247,251,K2Te1,1.9,eV,Estimated,1
+248,252,K1I1,6.17,eV,Reflection,1
+258,262,Ca1B6,4.5,eV,Reflection,1
+261,265,Ca1O1,7.7,eV,Estimated,1
+266,270,Ca1F2,10.0,eV,Absorption,1
+267,271,Ca2Si1,1.9,eV,,1
+268,272,Ca1S1,6.0,eV,Absorption,1
+270,274,Ca1Se1,4.87,eV,Absorption,1
+271,275,Ca2Sn1,0.9,eV,Thermal activation,1
+272,276,Ca1Te1,4.07,eV,Absorption,1
+273,277,Ca1I2,5.98,eV,Absorption,1
+274,278,Ca2Pb1,0.46,eV,Thermal activation,1
+275,279,Sc1N1,2.6,eV,,1
+276,280,Sc2O3,6.0,eV,Absorption,1
+280,284,Sc2S3,2.0,eV,Thermal activation,1
+281,285,Ti1C0.9,0.3,eV,Magnetoreflection,1
+282,286,Ti2O3,0.04,eV,,1
+283,287,Ti1O2,3.15,eV,Electroreflection,1
+291,295,Ti1S2,1.24,eV,Estimated,1
+292,296,Ti2S3,0.3,eV,Thermal activation,1
+293,297,Ti1S3,0.9,eV,Absorption,1
+295,299,Ti1Se2,0.69,eV,Estimated,1
+297,301,Ti1Te2,1.0,eV,Reflection,1
+298,302,V1O1,0.3,eV,,1
+299,303,V2O3,0.1,eV,Absorption,1
+300,304,V2O5,2.34,eV,Absorption,1
+301,305,V1O2,0.65,eV,Absorption,1
+302,306,V2O4,0.66,eV,Absorption,1
+303,307,V5O9,0.15,eV,Thermal activation,1
+304,308,V4O7,0.8,eV,Thermal activation,1
+313,317,Cr2O3,1.68,eV,Thermal activation,1
+314,318,Cr1O2,0.23,eV,Absorption,1
+318,322,Cr1Si2,0.35,eV,Thermal activation,1
+319,323,Cr2S3,0.9,eV,Thermal activation,1
+320,324,Cr3Se4,0.015,eV,Thermal activation,1
+321,325,Cr2Se3,0.025,eV,Thermal activation,1
+324,328,Cr1Sb1,0.2,eV,Thermal activation,1
+325,329,CrTe,0.02,eV,Thermal activation,1
+326,330,Mn1O2,0.26,eV,Thermal activation,1
+327,331,Mn1O1,3.7,eV,Absorption,1
+333,337,Mn1F2,10.05,eV,Absorption,1
+336,340,Mn1Al3,0.58,eV,Thermal activation,1
+337,341,MnSi,0.6,eV,Thermal activation,1
+339,343,Mn1S1,6.2,eV,Reflection,1
+341,345,Mn1Se2,0.2,eV,Thermal activation,1
+342,346,Mn1Se1,1.8,eV,Reflection,1
+343,347,Mn1Te1,1.25,eV,Reflection,1
+344,348,Mn1Te2,0.48,eV,Thermal activation,1
+347,351,Mn1I2,4.04,eV,Absorption,1
+349,353,Fe2O3,2.34,eV,Thermal activation,1
+352,356,Fe1Si2,0.9,eV,,1
+353,357,Fe1Si1,0.1,eV,Thermal activation,1
+356,360,Fe1P2,0.4,eV,Thermal activation,1
+357,361,Fe1S2,1.2,eV,Thermal activation,1
+358,362,Fe1As2,0.2,eV,Thermal activation,1
+360,364,Fe1Sc2,0.77,eV,Thermal activation,1
+362,366,Fe1Sb2,0.17,eV,Thermal activation,1
+364,368,Fe2Te3,0.6,eV,Absorption,1
+365,369,Fe1Te2,0.46,eV,Thermal activation,1
+367,371,Fe1I2,5.15,eV,Absorption,1
+368,372,Co1O1,0.47,eV,Thermal activation,1
+371,377,Co1Si1,0.045,eV,,1
+372,378,Co1As2,0.15,eV,Thermal activation,1
+373,379,Co1As3,0.25,eV,Thermal activation,1
+374,380,Co1Te1.88,0.2,eV,Absorption,1
+375,381,Ni1O1,3.7,eV,Electroreflection,1
+379,385,Ni1P2,0.5,eV,Thermal activation,1
+380,386,Ni1S1,0.12,eV,Thermal activation,1
+381,387,Ni1S2,0.5,eV,Thermal activation,1
+383,389,Ni1As2,0.05,eV,,1
+384,390,NiTe,0.23,eV,Thermal activation,1
+385,391,Cu1N3,4.17,eV,Absorption,1
+387,393,Cu2O1,2.023,eV,Electroreflection,1
+394,400,Cu1P2,1.4,eV,Absorption,1
+396,402,Cu2S1,1.21,eV,Reflection,1
+404,410,Cu1Cl1,3.306,eV,Absorption,1
+405,411,Cu2Se1,1.23,eV,Reflection,1
+409,415,Cu1Br1,2.987,eV,Absorption,1
+411,417,Cu2Te1,1.08,eV,Absorption,1
+416,422,Cu1I1,3.07,eV,Estimated,1
+418,424,Zn1O1,3.35,eV,Reflection,1
+423,429,Zn1P2,1.9274999999999998,eV,,1
+426,432,Zn3P2,1.15,eV,Reflection,1
+428,434,Zn1S1,3.87,eV,Reflection,1
+435,441,Zn1As2,0.9,eV,Absorption,1
+436,442,Zn3As2,0.93,eV,Absorption,1
+441,447,Zn1Se1,2.67,eV,Reflection,1
+447,453,Zn1Sb1,0.745,eV,Absorption,1
+449,455,Zn3Sb2,0.22,eV,Absorption,1
+450,456,Zn4Sb3,1.2,eV,Absorption,1
+466,472,Zn1Te1,2.25,eV,Absorption,1
+479,485,Zn1I2,4.53,eV,Absorption,1
+480,486,Ga1N1,3.24,eV,Absorption,1
+484,490,Ga2O3,4.54,eV,Absorption,1
+486,492,Ga1P1,2.5,eV,Absorption,1
+493,499,Ga1S1,2.5,eV,Absorption,1
+494,500,Ga2S3,3.59,eV,,1
+505,511,Ga1As1,1.42,eV,Reflection,1
+522,528,Ga1Se1,2.05,eV,Absorption,1
+524,530,Ga2Se3,2.05,eV,Absorption,1
+540,546,Ga1Sb1,0.725,eV,Absorption,1
+546,552,Ga1Te1,1.42,eV,Absorption,1
+547,553,Ga2Te3,1.225,eV,Reflection,1
+560,566,Ga1Bi1,0.1,eV,Estimated,1
+561,567,Ge1O2,5.56,eV,Reflection,1
+572,578,Ge1S1,1.58,eV,Thermal activation,1
+573,579,Ge1S2,3.54,eV,Absorption,1
+579,585,Ge,0.335,eV,Absorption,1
+589,595,Ge1As1,1.05,eV,Absorption,1
+590,596,Ge1As2,1.225,eV,Absorption,1
+593,599,Ge1Se1,1.315,eV,Absorption,1
+595,601,Ge1Se2,2.4325,eV,Absorption,1
+600,606,Ge1Sn1,0.8,eV,,1
+601,607,Ge1Te1,0.84,eV,Absorption,1
+602,608,Ge1Te2,0.3,eV,,1
+607,613,Ge1I2,1.5,eV,Estimated,1
+608,614,As2O3,4.0,eV,Absorption,1
+610,616,As2S3,2.43,eV,Absorption,1
+611,617,As4S4,2.4,eV,Photoconduction,1
+612,618,As2S5,2.48,eV,Absorption,1
+638,644,As,1.2,eV,Photoconduction,1
+642,648,As1Se1,1.2149999999999999,eV,Absorption,1
+644,650,As2Se3,1.77,eV,Reflection,1
+655,661,As1Br3,2.6,eV,Absorption,1
+656,662,As2Te3,0.48,eV,Absorption,1
+657,663,As1Te1,0.74,eV,,1
+663,669,As1I3,2.29,eV,Estimated,1
+665,671,SeS,1.9,eV,Absorption,1
+666,672,Se,1.7266666666666666,eV,Absorption,1
+683,689,Se1Te1,0.64,eV,Absorption,1
+684,690,Se3Te1,1.87,eV,Absorption,1
+687,693,Rb1F1,10.4,eV,Absorption,1
+688,694,Rb1Cl1,8.29,eV,Absorption,1
+693,699,Rb1Br1,7.2,eV,Absorption,1
+697,703,Rb3Sb1,1.0,eV,Absorption,1
+701,707,Rb2Te1,4.5,eV,Photoconduction,1
+702,708,Rb1I1,5.83,eV,Absorption,1
+710,716,Sr1O1,5.77,eV,Absorption,1
+713,719,Sr1S1,4.76,eV,Absorption,1
+715,721,Sr1Se1,4.42,eV,Absorption,1
+717,723,Sr1Te1,3.73,eV,Absorption,1
+719,725,Y1N1,1.9,eV,Absorption,1
+720,726,Y2O3,5.6,eV,Absorption,1
+722,728,ZrC,0.6,eV,Thermal activation,1
+723,729,Zr6O1,0.18,eV,Thermal activation,1
+724,730,Zr3O1,0.2,eV,Thermal activation,1
+725,731,Zr1O2,4.99,eV,Reflection,1
+728,734,Zr1S2,2.215,eV,Absorption,1
+730,736,Zr1S3,2.17,eV,Absorption,1
+733,739,Zr1Se2,2.0,eV,Reflection,1
+734,740,Zr1Se3,1.25,eV,Absorption,1
+735,741,Nb1O2,0.25,eV,Thermal activation,1
+736,742,Nb2O5,3.48,eV,Absorption,1
+739,745,Nb2S3,0.12,eV,Thermal activation,1
+740,746,Nb1Se2,1.4,eV,Reflection,1
+741,747,Mo1O3,3.3083333333333336,eV,Thermal activation,1
+748,754,Mo1S2,1.0699999999999998,eV,Absorption,1
+754,760,Mo1Te2,0.83,eV,Absorption,1
+758,764,Ru1P2,1.0,eV,Reflection,1
+759,765,Ru1S2,1.8,eV,Reflection,1
+760,766,Ru1As2,0.8,eV,Reflection,1
+761,767,Ru1Se2,1.0,eV,Reflection,1
+762,768,Ru1Sb2,0.3,eV,Thermal activation,1
+763,769,Ru1Te2,0.25,eV,Thermal activation,1
+765,771,Rh2S3,0.8,eV,Thermal activation,1
+766,772,Rh1S3,1.5,eV,Absorption,1
+767,773,Rh1Se2,0.6,eV,,1
+768,774,Rh1Se3,0.7,eV,Absorption,1
+769,775,Pd1O1,1.5,eV,Thermal activation,1
+771,777,Pd1P2,0.65,eV,Thermal activation,1
+772,778,Pd1S1,0.5,eV,Thermal activation,1
+773,779,Pd1S2,0.75,eV,Thermal activation,1
+774,780,Pd1Se1,0.2,eV,Thermal activation,1
+775,781,Pd1Se2,0.4,eV,Thermal activation,1
+776,782,Pd1Te2,1.8,eV,,1
+777,783,Ag1N3,3.9,eV,Photoconduction,1
+779,785,Ag2O1,1.2,eV,Photoconduction,1
+783,789,Ag2S1,0.95,eV,Photoconduction,1
+787,793,Ag1Cl1,4.1899999999999995,eV,Absorption,1
+797,803,Ag2Se1,0.13,eV,Absorption,1
+802,808,Ag1Br1,3.4850000000000003,eV,Absorption,1
+813,819,Ag2Te1,0.064,eV,Absorption,1
+814,820,Ag1Te1,0.85,eV,Absorption,1
+826,832,Cd1O1,1.75,eV,Absorption,1
+829,835,Cd1F2,6.0,eV,,1
+830,836,Cd1P2,1.7850000000000001,eV,,1
+834,840,Cd3P2,0.52,eV,Thermal activation,1
+835,841,Cd1P4,1.0,eV,Absorption,1
+843,849,Cd1S1,2.4175,eV,Photoconduction,1
+850,856,Cd1Cl2,5.7,eV,Reflection,1
+852,858,Cd1As2,1.0,eV,Absorption,1
+853,859,Cd3As2,0.13,eV,Absorption,1
+860,866,Cd1Sc1,1.714,eV,Photoconduction,1
+868,874,Cd1Br2,4.47,eV,Reflection,1
+869,875,Cd1In1,0.6,eV,Estimated,1
+870,876,Cd1Sb1,0.45,eV,Absorption,1
+871,877,Cd4Sb3,1.25,eV,Absorption,1
+880,886,Cd1Te1,1.517,eV,Electroreflection,1
+884,890,Cd1I2,3.5615,eV,Absorption,1
+894,900,Cd3Bi2,0.2,eV,Estimated,1
+895,901,In1N1,2.4,eV,Estimated,1
+896,902,In2O3,3.1845,eV,Absorption,1
+900,906,In1P1,1.351,eV,Absorption,1
+905,911,In2S3,1.565,eV,Thermal activation,1
+907,913,In1S1,1.86,eV,Thermal activation,1
+908,914,In4S5,0.9,eV,Photoconduction,1
+910,916,In1As1,0.35600000000000004,eV,Magnetoabsorption,1
+917,923,In1Se1,1.24,eV,Absorption,1
+919,925,In2Se1,0.739,eV,Absorption,1
+921,927,In2Se3,1.2,eV,Absorption,1
+928,934,In1Sb1,0.17,eV,Absorption,1
+934,940,In2Te3,0.98,eV,Reflection,1
+942,948,Sn1O2,3.5,eV,Absorption,1
+958,964,Sn1S2,2.4749999999999996,eV,Absorption,1
+960,966,Sn1S1,1.08,eV,Absorption,1
+964,970,Sn1Cl2,3.9,eV,Reflection,1
+965,971,Sn1Se2,1.5,eV,Reflection,1
+967,973,Sn1Se1,1.055,eV,Absorption,1
+976,982,Sn1Br2,3.4,eV,Reflection,1
+978,984,Sn,0.075,eV,Absorption,1
+981,987,Sn1Te1,0.18,eV,Absorption,1
+986,992,Sn1I4,2.38,eV,Absorption,1
+987,993,Sn1I2,2.4,eV,Reflection,1
+988,994,Sb2O3,3.31,eV,Reflection,1
+991,997,Sb1Si1,1.9,eV,Thermal activation,1
+993,999,Sb2S3,1.7,eV,Absorption,1
+1002,1008,Sb0.605As0.395,0.009000000000000001,eV,Thermal activation,1
+1004,1010,Sb2Se3,1.2,eV,Absorption,1
+1008,1014,Sb,0.1,eV,Reflection,1
+1010,1016,Sb2Te3,0.3,eV,Absorption,1
+1013,1019,Sb1I3,2.22,eV,Estimated,1
+1016,1022,Te1O2,3.0,eV,Photoconduction,1
+1017,1023,Te,0.332,eV,Absorption,1
+1029,1035,Te1I1,1.1,eV,Thermal activation,1
+1030,1036,I,1.3,eV,Absorption,1
+1034,1040,Cs1F1,10.0,eV,Absorption,1
+1035,1042,Cs1Cl1,8.1,eV,Absorption,1
+1038,1045,Cs3As1,0.6,eV,,1
+1039,1046,Cs1Br1,7.18,eV,Estimated,1
+1042,1049,Cs3Sb1,1.6,eV,Absorption,1
+1047,1054,Cs2Te1,3.5,eV,,1
+1048,1055,Cs1I1,6.37,eV,Absorption,1
+1052,1059,Cs1Bi2,0.55,eV,Absorption,1
+1053,1060,Cs3Bi1,0.55,eV,Absorption,1
+1055,1062,Ba1O1,5.13,eV,Estimated,1
+1058,1065,Ba1F2,9.06,eV,Absorption,1
+1059,1066,Ba1S1,3.88,eV,Absorption,1
+1061,1068,Ba1Se1,3.6,eV,Absorption,1
+1063,1070,Ba1Te1,3.4,eV,Estimated,1
+1064,1072,La1B6,0.08,eV,Reflection,1
+1067,1075,La2O3,1.05,eV,Thermal activation,1
+1069,1077,La1F3,6.6,eV,Absorption,1
+1070,1078,La2S3,1.32,eV,Thermal activation,1
+1071,1080,La2Se3,1.97,eV,Reflection,1
+1073,1082,La1Sb1,0.8,eV,Absorption,1
+1074,1083,La2Te3,0.1,eV,Thermal activation,1
+1075,1084,La3Te4,0.43,eV,Thermal activation,1
+1076,1085,Ce1N1,0.7,eV,Estimated,1
+1077,1086,Ce1O2,2.68,eV,Thermal activation,1
+1081,1090,Ce1F3,4.85,eV,Absorption,1
+1082,1091,Ce2S3,1.12,eV,,1
+1083,1092,Ce2Se3,1.75,eV,Reflection,1
+1086,1095,Ce2Te3,1.4,eV,Thermal activation,1
+1087,1096,Pr1B6,4.9,eV,Reflection,1
+1088,1097,Pr1O2,0.66,eV,Thermal activation,1
+1089,1098,Pr2O3,0.84,eV,Thermal activation,1
+1092,1101,Pr1F3,5.9,eV,Absorption,1
+1094,1103,Pr1As1,1.0,eV,Absorption,1
+1095,1104,Pr2Se3,1.8,eV,Reflection,1
+1097,1106,Pr1Sb1,0.66,eV,Absorption,1
+1098,1107,Pr1Te2,1.154,eV,Absorption,1
+1100,1109,Pr2Te3,1.3,eV,Absorption,1
+1101,1110,Nd1B6,4.9,eV,Reflection,1
+1104,1113,Nd2O3,0.97,eV,Thermal activation,1
+1105,1114,Nd1F3,6.15,eV,Absorption,1
+1106,1115,Nd2S3,3.0,eV,Thermal activation,1
+1107,1116,Nd1As1,1.04,eV,Absorption,1
+1108,1117,Nd2Se3,1.7,eV,Reflection,1
+1109,1118,Nd2Te5,0.29,eV,Thermal activation,1
+1110,1119,Nd1Te2,0.3,eV,Thermal activation,1
+1111,1120,Nd4Te7,0.38,eV,Thermal activation,1
+1112,1121,Nd2Te3,1.12,eV,Thermal activation,1
+1114,1123,Sm1B6,4.9,eV,Reflection,1
+1115,1124,Sm2O3,1.17,eV,Thermal activation,1
+1117,1126,Sm1P1,1.09,eV,Absorption,1
+1118,1127,Sm1S1,0.22,eV,Thermal activation,1
+1119,1128,Sm2S3,3.0,eV,Reflection,1
+1122,1131,Sm1As1,1.03,eV,Absorption,1
+1123,1132,Sm1Se1,0.46,eV,Absorption,1
+1124,1133,Sm2Se3,2.3,eV,Reflection,1
+1126,1135,Sm1Sb1,0.59,eV,Absorption,1
+1127,1136,Sm1Te1,0.62,eV,Absorption,1
+1128,1137,Eu1N1,1.25,eV,Thermal activation,1
+1130,1139,Eu1O1,1.122,eV,Absorption,1
+1131,1140,Eu3O4,0.6,eV,Thermal activation,1
+1132,1141,Eu2O3,1.7,eV,Thermal activation,1
+1137,1146,Eu3P2,1.2,eV,Absorption,1
+1138,1147,Eu1S1,1.645,eV,Absorption,1
+1139,1148,Eu3S4,0.163,eV,Thermal activation,1
+1144,1153,Eu3As2,0.6,eV,Thermal activation,1
+1145,1154,Eu1Se1,1.78,eV,Reflection,1
+1151,1160,Eu1Te1,1.959,eV,Absorption,1
+1154,1163,Gd1B6,3.6,eV,Absorption,1
+1155,1164,Gd1N1,1.54,eV,Absorption,1
+1156,1165,Gd2O3,1.36,eV,Thermal activation,1
+1158,1167,Gd1As1,0.63,eV,Absorption,1
+1159,1168,Gd1Te1,1.3,eV,,1
+1160,1169,Tb1O2,0.5,eV,Thermal activation,1
+1161,1170,Tb2O3,0.95,eV,Thermal activation,1
+1162,1171,Tb4O7,0.4,eV,Thermal activation,1
+1164,1174,Dy1B6,3.3,eV,Absorption,1
+1165,1175,Dy1N1,2.6,eV,Absorption,1
+1167,1177,Dy2O3,3.08,eV,Thermal activation,1
+1169,1179,Dy2S3,2.91,eV,Absorption,1
+1171,1181,Dy1As1,1.0,eV,Absorption,1
+1172,1182,Ho1N1,1.79,eV,Absorption,1
+1174,1184,Ho2O3,2.84,eV,Thermal activation,1
+1175,1185,Er1B6,3.5,eV,Absorption,1
+1176,1186,Er1N1,2.4,eV,Absorption,1
+1178,1188,Er2O3,3.26,eV,Thermal activation,1
+1180,1190,Er1Se2,1.07,eV,Thermal activation,1
+1181,1191,Er2Se3,1.66,eV,Thermal activation,1
+1182,1192,Er3Te4,0.9,eV,Thermal activation,1
+1183,1193,Er1Te1,0.9,eV,Thermal activation,1
+1184,1194,Er2Te3,0.9,eV,Thermal activation,1
+1185,1195,Tm1As1,1.18,eV,Absorption,1
+1186,1196,Yb2O3,2.99,eV,Thermal activation,1
+1188,1198,YbS,0.33,eV,Thermal activation,1
+1190,1200,Yb1As1,1.02,eV,Absorption,1
+1191,1201,Yb1Sb1,1.0,eV,Absorption,1
+1192,1202,Lu2O3,3.94,eV,Thermal activation,1
+1193,1203,Hf1O2,5.55,eV,,1
+1194,1204,Hf1S2,2.4299999999999997,eV,Absorption,1
+1195,1205,Hf1S3,2.8,eV,Absorption,1
+1198,1208,Hf1Se2,1.665,eV,Absorption,1
+1200,1210,TaN,2.3,eV,Absorption,1
+1201,1211,Ta2O5,4.6,eV,Photoconduction,1
+1202,1212,Ta1S2,0.1,eV,Thermal activation,1
+1203,1213,W1O3,2.8,eV,,1
+1206,1216,W1S2,1.1,eV,,1
+1208,1218,W1Se2,1.35,eV,Absorption,1
+1213,1223,W1Te2,0.05,eV,Thermal activation,1
+1215,1225,Re1O3,2.3,eV,Reflection,1
+1216,1226,Re1Si2,0.12,eV,Thermal activation,1
+1217,1227,Re1S2,1.1,eV,Photoconduction,1
+1218,1228,Re1Se2,0.99,eV,Thermal activation,1
+1219,1229,Os1P2,1.2,eV,Reflection,1
+1220,1230,Os1S2,2.0,eV,Reflection,1
+1221,1231,Os1As2,0.9,eV,Reflection,1
+1222,1232,Os1Sb2,0.2,eV,Thermal activation,1
+1223,1233,Os1Te2,0.3,eV,Thermal activation,1
+1224,1234,Ir1S2,0.9,eV,Absorption,1
+1225,1235,Ir1Se2,1.0,eV,Absorption,1
+1226,1236,Pt1O2,0.2,eV,Thermal activation,1
+1227,1237,Pt1P2,0.8,eV,Thermal activation,1
+1229,1239,Pt1S1,0.8,eV,Absorption,1
+1230,1240,Pt1S2,0.75,eV,,1
+1231,1241,Pt1As2,0.55,eV,Thermal activation,1
+1233,1243,Pt1Se2,0.1,eV,,1
+1234,1244,Pt1Sb2,0.11,eV,Absorption,1
+1239,1250,Hg1O1,2.48,eV,Reflection,1
+1243,1254,Hg1S1,1.2690000000000001,eV,Absorption,1
+1250,1261,Hg2Cl2,3.5,eV,Reflection,1
+1254,1265,Hg1Se1,0.24,eV,Magnetoreflection,1
+1258,1269,Hg2Br2,2.6,eV,Absorption,1
+1259,1270,Hg1Br2,3.59,eV,Absorption,1
+1260,1271,Hg1Te1,0.175,eV,Thermal activation,1
+1266,1277,Hg1I2,2.13,eV,Reflection,1
+1280,1291,Tl1N3,3.58,eV,Absorption,1
+1281,1292,Tl2O3,1.825,eV,Absorption,1
+1283,1294,Tl1S1,1.36,eV,Reflection,1
+1287,1298,Tl1Cl1,3.56,eV,Absorption,1
+1291,1302,Tl1Se1,0.73,eV,Absorption,1
+1298,1309,Tl1Br1,3.05,eV,Reflection,1
+1302,1313,Tl2Te3,0.7,eV,Absorption,1
+1303,1314,Tl2Te1,0.5,eV,Thermal activation,1
+1307,1318,Tl1I1,2.67,eV,Absorption,1
+1309,1320,Pb1N6,3.02,eV,Absorption,1
+1311,1322,Pb1O1,2.512,eV,Absorption,1
+1314,1325,Pb2O3,1.67,eV,Absorption,1
+1315,1326,Pb1O2,1.85,eV,,1
+1317,1328,Pb3O4,2.12,eV,Absorption,1
+1331,1342,Pb1S1,0.41,eV,Reflection,1
+1341,1352,Pb1Cl2,3.82,eV,Absorption,1
+1344,1355,Pb1Se1,0.27,eV,Reflection,1
+1356,1367,Pb1Br2,3.2,eV,Absorption,1
+1360,1371,Pb1Te1,0.31,eV,Reflection,1
+1374,1385,Pb1I2,2.32,eV,Absorption,1
+1380,1391,Bi2O3,2.755,eV,Absorption,1
+1389,1401,Bi2S3,1.2,eV,Absorption,1
+1394,1406,Bi2Se3,0.21,eV,Absorption,1
+1399,1411,Bi1Br3,2.66,eV,Absorption,1
+1416,1428,Bi2Te3,0.145,eV,Absorption,1
+1425,1437,Bi1I3,1.9625,eV,Absorption,1
+1433,1445,Bi,0.015,eV,Magnetoreflection,1
+1436,1448,Th1O2,4.625,eV,,1
+1443,1455,UO,1.5,eV,Thermal activation,1
+1444,1456,U1O2,2.18,eV,Absorption,1
