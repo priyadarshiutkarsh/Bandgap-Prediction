@@ -60,11 +60,6 @@ Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-Credits
-=======
-
-This has been possible under the Skunkworks group of University of Wisconsin Madison.
-
 License
 -------
 
